@@ -1,0 +1,6 @@
+{
+  "name": "Fire Safety Asset Management System (FAMS)",
+  "description": "An enterprise-grade Android application for fire safety asset management, inspections, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
